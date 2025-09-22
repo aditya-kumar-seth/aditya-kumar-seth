@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hello World!, 👋</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast ready to work with good people</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-kumar-seth&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-kumar-seth" /> </p>
