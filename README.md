@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar Seth</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast ready to work with good people</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-kumar-seth&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-kumar-seth" /> </p>
@@ -22,3 +22,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-kumar-seth&show_icons=true&locale=en&layout=compact" alt="aditya-kumar-seth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-kumar-seth&" alt="aditya-kumar-seth" /></p>
+<script>
+  const h1 =document.querySelector('h1');
+  setTimeout(()=>{
+  h1 = " I'm Aditya Kumar Seth";
+  },5000);
+</script>
